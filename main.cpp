@@ -8,7 +8,7 @@ using namespace fdm;
 // Initialize the DLLMain
 initDLL
 
-glm::vec4 color{ 1.0f, 0.0f, 0.0f, 0.5f };
+glm::vec4 color{ 1.0f, 0.0f, 0.0f, 0.4f };
 float animDur = 0.5f;
 std::string configPath;
 
